@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "太陽、なってあげよっか?♡",
+  "base_artist": "社 美胡(CV:ファイルーズあい)",
+  "createdAt": "2025-12-15T00:08:30.607288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "太陽、なってあげよっか?♡",
+      "artist": "社美胡(CV:ファイルーズあい)",
+      "has_synced": true,
+      "path": "select/01_太陽、なってあげよっか_♡_社美胡(CV_ファイルーズあい).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "太陽、なってあげよっか?♡ (TV size)",
+      "artist": "社美胡(CV:ファイルーズあい)",
+      "has_synced": true,
+      "path": "select/02_太陽、なってあげよっか_♡_(TV_size)_社美胡(CV_ファイルーズあい).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽、なってあげよっか?",
+      "artist": "社 美胡(CV:ファイルーズあい)",
+      "has_synced": false,
+      "path": "select/pl_01_太陽、なってあげよっか_社_美胡(CV_ファイルーズあい).txt"
+    }
+  ]
+}
